@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog Pham Van Duc</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Blog Pham Van Duc</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DOM là gì? Tìm hiểu và thao tác DOM trong Javascript</title>
+      <link>http://example.org/post/post8/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://example.org/post/post8/</guid>
+      <description>&lt;h2 id=&#34;dom-là-gì&#34;&gt;DOM là gì?&lt;/h2&gt;&#xA;&lt;p&gt;DOM là tên gọi viết tắt của &lt;strong&gt;Document Object Model&lt;/strong&gt; (tạm dịch: Mô hình Các Đối tượng Tài liệu). Đây là một chuẩn được định nghĩa bởi &lt;strong&gt;W3C&lt;/strong&gt; (Tổ Chức Web Toàn Cầu – World Wide Web Consortium). DOM được sử dụng để truy xuất và thao tác trên các tài liệu có cấu trúc dạng HTML hay XML thông qua các ngôn ngữ lập trình phổ biến như &lt;strong&gt;Javascript&lt;/strong&gt;, &lt;strong&gt;PHP&lt;/strong&gt;, v.v.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Top 26 SAI LẦM mà các lập trình viên “non trẻ” hay mắc phải</title>
+      <link>http://example.org/post/post9/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://example.org/post/post9/</guid>
+      <description>&lt;p&gt;Bài viết hôm nay sẽ nói về những sai lầm ta hay phạm phải khi bước những bước đầu tiên trên con đường lập trình. Để trưởng thành hơn trên con đường phát triển bản thân, phát triển sự nghiệp, ta cần phải học hỏi không ngừng. Có một câu danh ngôn khá hay là: “Hãy học từ sai lầm của người khác. Bạn sẽ không bao giờ sống đủ lâu để phạm phải tất cả sai lầm.”&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ưu nhược điểm của ngôn ngữ JavaScript</title>
+      <link>http://example.org/post/post7/</link>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://example.org/post/post7/</guid>
+      <description>&lt;h1 id=&#34;javascript-là-gì&#34;&gt;JavaScript là gì?&lt;/h1&gt;&#xA;&lt;p&gt;JavaScript là ngôn ngữ lập trình được phát triển cho web với độ tương tác cao hơn và dần phổ biến trên nhiều lĩnh vực khác. Nó triển khai các tập lệnh phía máy khách để tương tác với người dùng trên website, tạo được các trang web động, thường được gọi là lập trình hướng đối tượng.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://example.com/path-to-image.jpg&#34; alt=&#34;JavaScript là gì?&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;javascript-là-gì-1&#34;&gt;JavaScript là gì?&lt;/h3&gt;&#xA;&lt;p&gt;JavaScript được Netscape giới thiệu với tên ban đầu là LiveScript. Nhưng vào những năm 1990, sự phát triển mạnh mẽ và tác động của Java nên đơn vị này chuyển thành tên JavaScript phổ biến như ngày nay.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kinh nghiệm nhỏ khi học JavaScript</title>
+      <link>http://example.org/post/post5/</link>
+      <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>http://example.org/post/post5/</guid>
+      <description>&lt;h1 id=&#34;cách-học-javascript-từ-căn-bản-đến-nâng-cao&#34;&gt;Cách học JavaScript từ căn bản đến nâng cao&lt;/h1&gt;&#xA;&lt;h2 id=&#34;mục-tiêu&#34;&gt;Mục tiêu&lt;/h2&gt;&#xA;&lt;p&gt;Cung cấp lộ trình học JavaScript cho người mới bắt đầu, giúp học viên dễ dàng tiếp cận và phát triển kỹ năng lập trình web.&lt;/p&gt;&#xA;&lt;h2 id=&#34;lộ-trình-học&#34;&gt;Lộ trình học&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-các-khái-niệm-cơ-bản&#34;&gt;1. &lt;strong&gt;Các khái niệm cơ bản&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Biến&lt;/strong&gt;: Tìm hiểu cách khai báo biến bằng &lt;code&gt;var&lt;/code&gt;, &lt;code&gt;let&lt;/code&gt;, &lt;code&gt;const&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hàm&lt;/strong&gt;: Cách định nghĩa và sử dụng hàm trong JavaScript.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Kiểu dữ liệu&lt;/strong&gt;: Số, chuỗi, mảng, đối tượng, v.v.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Câu lệnh điều kiện&lt;/strong&gt;: &lt;code&gt;if&lt;/code&gt;, &lt;code&gt;else&lt;/code&gt;, &lt;code&gt;switch&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Vòng lặp&lt;/strong&gt;: &lt;code&gt;for&lt;/code&gt;, &lt;code&gt;while&lt;/code&gt;, &lt;code&gt;do...while&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Toán tử&lt;/strong&gt;: Toán tử số học, so sánh, logic.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2-synchronous-và-asynchronous-code&#34;&gt;2. &lt;strong&gt;Synchronous và Asynchronous Code&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Synchronous&lt;/strong&gt;: Các lệnh thực thi lần lượt theo thứ tự.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Asynchronous&lt;/strong&gt;: Các lệnh thực thi không đồng bộ, giúp tối ưu hiệu suất.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Callback&lt;/strong&gt;: Làm quen với các hàm callback trong xử lý bất đồng bộ.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Promises&lt;/strong&gt;: Học cách sử dụng &lt;code&gt;Promise&lt;/code&gt; để xử lý các tác vụ bất đồng bộ.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;async/await&lt;/strong&gt;: Cải tiến cú pháp xử lý bất đồng bộ với &lt;code&gt;async/await&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;3-giới-thiệu-về-es6-và-các-tính-năng-mới&#34;&gt;3. &lt;strong&gt;Giới thiệu về ES6 và các tính năng mới&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Arrow functions&lt;/strong&gt;: Cú pháp rút gọn của hàm, không có từ khóa &lt;code&gt;this&lt;/code&gt; riêng biệt.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Let và Const&lt;/strong&gt;: Khác biệt giữa &lt;code&gt;let&lt;/code&gt;, &lt;code&gt;const&lt;/code&gt; và &lt;code&gt;var&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Destructuring&lt;/strong&gt;: Phân tách đối tượng và mảng.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Template literals&lt;/strong&gt;: Sử dụng dấu backtick cho chuỗi đa dòng và nhúng biến.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Modules&lt;/strong&gt;: Sử dụng &lt;code&gt;import&lt;/code&gt; và &lt;code&gt;export&lt;/code&gt; để tổ chức mã nguồn.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;4-các-bài-tập-và-ví-dụ-thực-tế&#34;&gt;4. &lt;strong&gt;Các bài tập và ví dụ thực tế&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bài tập cơ bản&lt;/strong&gt;: Viết chương trình tính toán đơn giản, sử dụng vòng lặp, điều kiện.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bài tập với đối tượng&lt;/strong&gt;: Tạo đối tượng và làm việc với thuộc tính, phương thức của đối tượng.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ứng dụng bất đồng bộ&lt;/strong&gt;: Xử lý dữ liệu từ API bằng &lt;code&gt;fetch&lt;/code&gt;, &lt;code&gt;async/await&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Dự án mini&lt;/strong&gt;: Tạo ứng dụng web đơn giản như Todo List hoặc Calculator.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;kết-luận&#34;&gt;Kết luận&lt;/h2&gt;&#xA;&lt;p&gt;Học JavaScript là một quá trình liên tục và thực hành. Cùng với việc nắm vững các khái niệm cơ bản, bạn sẽ dần làm quen với các kỹ thuật nâng cao, phát triển khả năng lập trình và xây dựng các ứng dụng web phức tạp.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chia sẻ về JavaScript(Phần 2)</title>
+      <link>http://example.org/post/post4/</link>
+      <pubDate>Fri, 13 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>http://example.org/post/post4/</guid>
+      <description>&lt;h2 id=&#34;1-làm-việc-với-dom-document-object-model&#34;&gt;1. Làm việc với DOM (Document Object Model)&lt;/h2&gt;&#xA;&lt;p&gt;Một trong những lý do khiến JavaScript trở nên mạnh mẽ trong phát triển web là khả năng tương tác với DOM – mô hình đối tượng tài liệu của trang web.&lt;/p&gt;&#xA;&lt;p&gt;JavaScript cho phép bạn thay đổi nội dung của trang web, thêm hoặc xóa các phần tử HTML mà không cần phải tải lại trang.&lt;/p&gt;&#xA;&lt;h3 id=&#34;ví-dụ-thay-đổi-nội-dung-html-với-javascript&#34;&gt;Ví dụ thay đổi nội dung HTML với JavaScript:&lt;/h3&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// Lấy phần tử có id=&amp;#34;demo&amp;#34;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;let&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;element&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; document.&lt;span style=&#34;color:#a6e22e&#34;&gt;getElementById&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;demo&amp;#34;&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// Thay đổi nội dung của phần tử&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;element&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;innerHTML&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, JavaScript!&amp;#34;&lt;/span&gt;;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2-học-javascript-qua-các-ví-dụ-thực-tế&#34;&gt;2. Học JavaScript qua các ví dụ thực tế&lt;/h2&gt;&#xA;&lt;p&gt;Việc học lý thuyết rất quan trọng, nhưng áp dụng chúng vào các bài tập thực tế là cách nhanh nhất để bạn hiểu sâu về JavaScript. Dưới đây là một số ví dụ thực tế mà bạn có thể thử:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sử dụng JavaScript để xây dựng ứng dụng web động</title>
+      <link>http://example.org/post/post6/</link>
+      <pubDate>Tue, 27 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://example.org/post/post6/</guid>
+      <description>&lt;h1 id=&#34;sử-dụng-javascript-để-xây-dựng-ứng-dụng-web-động&#34;&gt;Sử dụng JavaScript để xây dựng ứng dụng web động&lt;/h1&gt;&#xA;&lt;h2 id=&#34;mục-tiêu&#34;&gt;Mục tiêu&lt;/h2&gt;&#xA;&lt;p&gt;Hướng dẫn cách sử dụng JavaScript để phát triển các ứng dụng web động, giúp người dùng tương tác và trải nghiệm mượt mà hơn trên các trình duyệt web.&lt;/p&gt;&#xA;&lt;h2 id=&#34;lộ-trình-học&#34;&gt;Lộ trình học&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-giới-thiệu-về-ứng-dụng-web-động&#34;&gt;1. Giới thiệu về ứng dụng web động&lt;/h3&gt;&#xA;&lt;p&gt;Ứng dụng web động là những trang web có thể thay đổi nội dung mà không cần phải tải lại toàn bộ trang. Điều này giúp cải thiện trải nghiệm người dùng và tối ưu hóa hiệu suất.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chia sẻ về JavaScript(Phần 1)</title>
+      <link>http://example.org/post/post3/</link>
+      <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://example.org/post/post3/</guid>
+      <description>&lt;h1 id=&#34;chia-sẻ-về-javascript-hướng-dẫn-và-kinh-nghiệm-cho-người-mới&#34;&gt;Chia sẻ về JavaScript: Hướng dẫn và Kinh nghiệm cho Người Mới&lt;/h1&gt;&#xA;&lt;p&gt;JavaScript là một trong những ngôn ngữ lập trình phổ biến nhất hiện nay, đặc biệt là trong phát triển web. Với khả năng chạy trên cả client và server, JavaScript đã trở thành một phần không thể thiếu trong việc xây dựng ứng dụng web động. Dưới đây là một số chia sẻ về JavaScript giúp bạn làm quen với ngôn ngữ này.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hành trình học ngôn ngữ java của tôi</title>
+      <link>http://example.org/post/post2/</link>
+      <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://example.org/post/post2/</guid>
+      <description>&lt;h1 id=&#34;142-cùng-nhìn-lại-hành-trình-tôi-yêu-ngôn-ngữ-lập-trình-java-như-thế-nào---podcast-10&#34;&gt;14/2, Cùng nhìn lại hành trình tôi yêu ngôn ngữ lập trình Java như thế nào - Podcast 10&lt;/h1&gt;&#xA;&lt;p&gt;14/2 chúng ta hay nhắc về tình yêu đôi lứa, tình yêu vợ chồng.&lt;br&gt;&#xA;Nhưng nội dung này, Lâm lại muốn chia sẻ một tình yêu khác, một tình yêu đã gắn bó với Lâm trong suốt quãng thời gian từ khi ra trường cho tới bây giờ.&lt;br&gt;&#xA;Đó là tình yêu đối với ngôn ngữ lập trình Java. Hôm nay, Lâm muốn nhìn lại quá trình mà Lâm và &amp;ldquo;Java&amp;rdquo; đã yêu nhau và trở thành một phần của nhau như thế nào để hoài niệm và lưu lại ký ức.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blog đầu tiên</title>
+      <link>http://example.org/post/post1/</link>
+      <pubDate>Mon, 05 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://example.org/post/post1/</guid>
+      <description>&lt;h1 id=&#34;kinh-nghiệm-học-java-những-bước-đi-vững-chắc-cho-người-mới-bắt-đầu&#34;&gt;Kinh nghiệm học Java: Những bước đi vững chắc cho người mới bắt đầu&lt;/h1&gt;&#xA;&lt;p&gt;Học Java không phải là một con đường dễ dàng, nhưng nếu bạn kiên trì và có phương pháp học đúng đắn, bạn sẽ sớm trở thành một lập trình viên giỏi. Dưới đây là những kinh nghiệm học Java mà tôi muốn chia sẻ từ quá trình tự học của mình.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-hiểu-rõ-ngôn-ngữ-java-từ-những-khái-niệm-cơ-bản&#34;&gt;1. Hiểu rõ ngôn ngữ Java từ những khái niệm cơ bản&lt;/h2&gt;&#xA;&lt;p&gt;Java là một ngôn ngữ lập trình mạnh mẽ, phổ biến với khả năng chạy trên nhiều nền tảng (cross-platform) nhờ vào máy ảo Java (JVM). Để bắt đầu học Java, bạn cần nắm vững những khái niệm cơ bản như:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>http://example.org/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/page/about/</guid>
+      <description>&lt;h1 id=&#34;giới-thiệu-về-bản-thân&#34;&gt;Giới Thiệu Về Bản Thân&lt;/h1&gt;&#xA;&lt;p&gt;Xin chào! Tôi là Phạm Văn Đức, một người đam mê công nghệ và lập trình. Hiện tại, tôi đang họchọc trong lĩnh vực phát triển phần mềm, đặc biệt là về &lt;strong&gt;Java&lt;/strong&gt; và &lt;strong&gt;JavaScript&lt;/strong&gt;. Dưới đây là một số thông tin cơ bản về tôi.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-thông-tin-cá-nhân&#34;&gt;1. Thông Tin Cá Nhân&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tên&lt;/strong&gt;: Phạm Văn Đức&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Năm Sinh&lt;/strong&gt;: 2003&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Nơi ở&lt;/strong&gt;: Tp.Hồ Chí Minh&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:duc464471@gmail.com&#34;&gt;duc464471@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sở thích&lt;/strong&gt;: Lập trình, học hỏi công nghệ mới, đọc sách, du lịch.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2-quá-trình-học-tập&#34;&gt;2. Quá Trình Học Tập&lt;/h2&gt;&#xA;&lt;p&gt;Tôi bắt đầu học lập trình từ khi còn là học sinh cấp 3 và rất nhanh chóng đam mê với các ngôn ngữ như Java và JavaScript. Tôi đã học qua nhiều khóa học trực tuyến, tham gia các dự án thực tế để nâng cao kỹ năng.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chia Sẻ Cá Nhân on Blog Pham Van Duc</title>
+    <link>http://example.org/tags/chia-s%E1%BA%BB-c%C3%A1-nh%C3%A2n/</link>
+    <description>Recent content in Chia Sẻ Cá Nhân on Blog Pham Van Duc</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/tags/chia-s%E1%BA%BB-c%C3%A1-nh%C3%A2n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 26 SAI LẦM mà các lập trình viên “non trẻ” hay mắc phải</title>
+      <link>http://example.org/post/post9/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://example.org/post/post9/</guid>
+      <description>&lt;p&gt;Bài viết hôm nay sẽ nói về những sai lầm ta hay phạm phải khi bước những bước đầu tiên trên con đường lập trình. Để trưởng thành hơn trên con đường phát triển bản thân, phát triển sự nghiệp, ta cần phải học hỏi không ngừng. Có một câu danh ngôn khá hay là: “Hãy học từ sai lầm của người khác. Bạn sẽ không bao giờ sống đủ lâu để phạm phải tất cả sai lầm.”&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hành trình học ngôn ngữ java của tôi</title>
+      <link>http://example.org/post/post2/</link>
+      <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://example.org/post/post2/</guid>
+      <description>&lt;h1 id=&#34;142-cùng-nhìn-lại-hành-trình-tôi-yêu-ngôn-ngữ-lập-trình-java-như-thế-nào---podcast-10&#34;&gt;14/2, Cùng nhìn lại hành trình tôi yêu ngôn ngữ lập trình Java như thế nào - Podcast 10&lt;/h1&gt;&#xA;&lt;p&gt;14/2 chúng ta hay nhắc về tình yêu đôi lứa, tình yêu vợ chồng.&lt;br&gt;&#xA;Nhưng nội dung này, Lâm lại muốn chia sẻ một tình yêu khác, một tình yêu đã gắn bó với Lâm trong suốt quãng thời gian từ khi ra trường cho tới bây giờ.&lt;br&gt;&#xA;Đó là tình yêu đối với ngôn ngữ lập trình Java. Hôm nay, Lâm muốn nhìn lại quá trình mà Lâm và &amp;ldquo;Java&amp;rdquo; đã yêu nhau và trở thành một phần của nhau như thế nào để hoài niệm và lưu lại ký ức.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blog đầu tiên</title>
+      <link>http://example.org/post/post1/</link>
+      <pubDate>Mon, 05 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://example.org/post/post1/</guid>
+      <description>&lt;h1 id=&#34;kinh-nghiệm-học-java-những-bước-đi-vững-chắc-cho-người-mới-bắt-đầu&#34;&gt;Kinh nghiệm học Java: Những bước đi vững chắc cho người mới bắt đầu&lt;/h1&gt;&#xA;&lt;p&gt;Học Java không phải là một con đường dễ dàng, nhưng nếu bạn kiên trì và có phương pháp học đúng đắn, bạn sẽ sớm trở thành một lập trình viên giỏi. Dưới đây là những kinh nghiệm học Java mà tôi muốn chia sẻ từ quá trình tự học của mình.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-hiểu-rõ-ngôn-ngữ-java-từ-những-khái-niệm-cơ-bản&#34;&gt;1. Hiểu rõ ngôn ngữ Java từ những khái niệm cơ bản&lt;/h2&gt;&#xA;&lt;p&gt;Java là một ngôn ngữ lập trình mạnh mẽ, phổ biến với khả năng chạy trên nhiều nền tảng (cross-platform) nhờ vào máy ảo Java (JVM). Để bắt đầu học Java, bạn cần nắm vững những khái niệm cơ bản như:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

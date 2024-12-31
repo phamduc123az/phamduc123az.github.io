@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bigimg on Blog Pham Van Duc</title>
+    <link>http://localhost:1313/tags/bigimg/</link>
+    <description>Recent content in Bigimg on Blog Pham Van Duc</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/bigimg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DOM là gì? Tìm hiểu và thao tác DOM trong Javascript</title>
+      <link>http://localhost:1313/post/post8/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post8/</guid>
+      <description>&lt;h2 id=&#34;dom-là-gì&#34;&gt;DOM là gì?&lt;/h2&gt;&#xA;&lt;p&gt;DOM là tên gọi viết tắt của &lt;strong&gt;Document Object Model&lt;/strong&gt; (tạm dịch: Mô hình Các Đối tượng Tài liệu). Đây là một chuẩn được định nghĩa bởi &lt;strong&gt;W3C&lt;/strong&gt; (Tổ Chức Web Toàn Cầu – World Wide Web Consortium). DOM được sử dụng để truy xuất và thao tác trên các tài liệu có cấu trúc dạng HTML hay XML thông qua các ngôn ngữ lập trình phổ biến như &lt;strong&gt;Javascript&lt;/strong&gt;, &lt;strong&gt;PHP&lt;/strong&gt;, v.v.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

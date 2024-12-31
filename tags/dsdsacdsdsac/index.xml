@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dsdsacdsdsac on Blog Pham Van Duc</title>
+    <link>http://localhost:1313/tags/dsdsacdsdsac/</link>
+    <description>Recent content in Dsdsacdsdsac on Blog Pham Van Duc</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/dsdsacdsdsac/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog đầu tiên</title>
+      <link>http://localhost:1313/post/post1/</link>
+      <pubDate>Mon, 05 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post1/</guid>
+      <description>&lt;h1 id=&#34;kinh-nghiệm-học-java-những-bước-đi-vững-chắc-cho-người-mới-bắt-đầu&#34;&gt;Kinh nghiệm học Java: Những bước đi vững chắc cho người mới bắt đầu&lt;/h1&gt;&#xA;&lt;p&gt;Học Java không phải là một con đường dễ dàng, nhưng nếu bạn kiên trì và có phương pháp học đúng đắn, bạn sẽ sớm trở thành một lập trình viên giỏi. Dưới đây là những kinh nghiệm học Java mà tôi muốn chia sẻ từ quá trình tự học của mình.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-hiểu-rõ-ngôn-ngữ-java-từ-những-khái-niệm-cơ-bản&#34;&gt;1. Hiểu rõ ngôn ngữ Java từ những khái niệm cơ bản&lt;/h2&gt;&#xA;&lt;p&gt;Java là một ngôn ngữ lập trình mạnh mẽ, phổ biến với khả năng chạy trên nhiều nền tảng (cross-platform) nhờ vào máy ảo Java (JVM). Để bắt đầu học Java, bạn cần nắm vững những khái niệm cơ bản như:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

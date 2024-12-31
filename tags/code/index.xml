@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on Blog Pham Van Duc</title>
+    <link>http://localhost:1313/tags/code/</link>
+    <description>Recent content in Code on Blog Pham Van Duc</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ưu nhược điểm của ngôn ngữ JavaScript</title>
+      <link>http://localhost:1313/post/post7/</link>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post7/</guid>
+      <description>&lt;h1 id=&#34;javascript-là-gì&#34;&gt;JavaScript là gì?&lt;/h1&gt;&#xA;&lt;p&gt;JavaScript là ngôn ngữ lập trình được phát triển cho web với độ tương tác cao hơn và dần phổ biến trên nhiều lĩnh vực khác. Nó triển khai các tập lệnh phía máy khách để tương tác với người dùng trên website, tạo được các trang web động, thường được gọi là lập trình hướng đối tượng.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://example.com/path-to-image.jpg&#34; alt=&#34;JavaScript là gì?&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;javascript-là-gì-1&#34;&gt;JavaScript là gì?&lt;/h3&gt;&#xA;&lt;p&gt;JavaScript được Netscape giới thiệu với tên ban đầu là LiveScript. Nhưng vào những năm 1990, sự phát triển mạnh mẽ và tác động của Java nên đơn vị này chuyển thành tên JavaScript phổ biến như ngày nay.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

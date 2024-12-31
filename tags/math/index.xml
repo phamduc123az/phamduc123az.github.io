@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Math on Blog Pham Van Duc</title>
+    <link>http://localhost:1313/tags/math/</link>
+    <description>Recent content in Math on Blog Pham Van Duc</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 26 SAI LẦM mà các lập trình viên “non trẻ” hay mắc phải</title>
+      <link>http://localhost:1313/post/post9/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post9/</guid>
+      <description>&lt;p&gt;Bài viết hôm nay sẽ nói về những sai lầm ta hay phạm phải khi bước những bước đầu tiên trên con đường lập trình. Để trưởng thành hơn trên con đường phát triển bản thân, phát triển sự nghiệp, ta cần phải học hỏi không ngừng. Có một câu danh ngôn khá hay là: “Hãy học từ sai lầm của người khác. Bạn sẽ không bao giờ sống đủ lâu để phạm phải tất cả sai lầm.”&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
