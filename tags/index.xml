@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blog Pham Van Duc</title>
-    <link>http://example.org/tags/</link>
+    <link>https://phamduc123az.github.io/tags/</link>
     <description>Recent content in Tags on Blog Pham Van Duc</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Mar 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://phamduc123az.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chia Sẻ JavaScript</title>
-      <link>http://example.org/tags/chia-s%E1%BA%BB-javascript/</link>
+      <link>https://phamduc123az.github.io/tags/chia-s%E1%BA%BB-javascript/</link>
       <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tags/chia-s%E1%BA%BB-javascript/</guid>
+      <guid>https://phamduc123az.github.io/tags/chia-s%E1%BA%BB-javascript/</guid>
       <description></description>
     </item>
     <item>
       <title>Chia Sẻ Cá Nhân</title>
-      <link>http://example.org/tags/chia-s%E1%BA%BB-c%C3%A1-nh%C3%A2n/</link>
+      <link>https://phamduc123az.github.io/tags/chia-s%E1%BA%BB-c%C3%A1-nh%C3%A2n/</link>
       <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tags/chia-s%E1%BA%BB-c%C3%A1-nh%C3%A2n/</guid>
+      <guid>https://phamduc123az.github.io/tags/chia-s%E1%BA%BB-c%C3%A1-nh%C3%A2n/</guid>
       <description></description>
     </item>
     <item>
       <title>Chia Sẻ Java</title>
-      <link>http://example.org/tags/chia-s%E1%BA%BB-java/</link>
+      <link>https://phamduc123az.github.io/tags/chia-s%E1%BA%BB-java/</link>
       <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tags/chia-s%E1%BA%BB-java/</guid>
+      <guid>https://phamduc123az.github.io/tags/chia-s%E1%BA%BB-java/</guid>
       <description></description>
     </item>
   </channel>
